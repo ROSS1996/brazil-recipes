@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color:  rgb(144, 250, 151); 
+}
+
+header {
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+a {
+    text-decoration: none;
+}

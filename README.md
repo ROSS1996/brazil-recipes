@@ -2,6 +2,10 @@
 
 This is a webpage with a few recipes from Brazilian cuisine.
 
+## Screenshot
+
+![](./screenshot.jpeg)
+
 ## Link
 
 - Live Site URL: [https://ross1996.github.io/brazil-recipes/](<https://ross1996.github.io/brazil-recipes/>)
